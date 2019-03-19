@@ -1,0 +1,9 @@
+[submodule "vunit"]
+	path = vunit
+	url = https://github.com/VUnit/vunit.git
+[submodule "OSVVM"]
+	path = OSVVM
+	url = https://github.com/OSVVM/OSVVM.git
+[submodule "osvvm_axi_vip"]
+	path = osvvm_axi_vip
+	url = https://github.com/OSVVM/AXI4.git
